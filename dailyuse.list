@@ -1,8 +1,33 @@
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.com
 
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokv.us
+# TikTok
+- DOMAIN-SUFFIX,tiktok.com,TikTok
+- DOMAIN-SUFFIX,douyin.com,TikTok
+- DOMAIN-SUFFIX,douyinpic.com,TikTok
+- DOMAIN-SUFFIX,bytecdn.cn,TikTok
+- DOMAIN-SUFFIX,byted.org,TikTok
+- DOMAIN-SUFFIX,bytedanceapi.com,TikTok
+- DOMAIN-SUFFIX,byteoversea.com,TikTok
+- DOMAIN-SUFFIX,byteoversea.net,TikTok
+- DOMAIN-SUFFIX,ibytedtos.com,TikTok
+- DOMAIN-SUFFIX,ibyteimg.com,TikTok
+- DOMAIN-SUFFIX,isnssdk.com,TikTok
+- DOMAIN-SUFFIX,muscdn.com,TikTok
+- DOMAIN-SUFFIX,musemuse.cn,TikTok
+- DOMAIN-SUFFIX,musical.ly,TikTok
+- DOMAIN-SUFFIX,sgsnssdk.com,TikTok
+- DOMAIN-SUFFIX,tiktokcdn-in.com,TikTok
+- DOMAIN-SUFFIX,tiktokv.com,TikTok
+- DOMAIN-SUFFIX,tiktokcdn.com,TikTok
+- DOMAIN-SUFFIX,ttoversea.net,TikTok
+- DOMAIN-SUFFIX,worldfcdn.com,TikTok
+- DOMAIN-SUFFIX,wsdvs.com,TikTok
+- DOMAIN-SUFFIX,byteoversea.com,TikTok
+- DOMAIN-SUFFIX,ipstatp.com,TikTok
+- DOMAIN-SUFFIX,tik-tokapi.com,TikTok
+- DOMAIN-KEYWORD,tiktokcdn,TikTok
+- DOMAIN-KEYWORD,douyin,TikTok
 
 
 
@@ -14,10 +39,21 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.net
 
-DOMAIN-SUFFIX,simplecastaudio.com
-DOMAIN-SUFFIX,spotify.com
+
+
+
+
+
+
+# Spotify
+DOMAIN-SUFFIX,podtrac.com
+DOMAIN-SUFFIX,pscdn.co,Spotify
+DOMAIN-SUFFIX,scdn.co,Spotify
+DOMAIN-SUFFIX,spoti.fi,Spotify
+DOMAIN-SUFFIX,spotify.com,Spotify
+DOMAIN-SUFFIX,spotifycdn.net,Spotify
+DOMAIN-KEYWORD,spotify,Spotify
 DOMAIN-SUFFIX,libsyn.com
 DOMAIN-SUFFIX,pscrb.fm
 DOMAIN-SUFFIX,megaphone.fm
-DOMAIN-SUFFIX,podtrac.com
-DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,simplecastaudio.com
