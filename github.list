@@ -1,2 +1,33 @@
+# GitHub 主站
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,github.blog
+
+# GitHub CDN
+
+DOMAIN-SUFFIX,github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN-SUFFIX,github-production-user-asset-6210df.s3.amazonaws.com
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,camo.githubusercontent.com
+DOMAIN-SUFFIX,avatars.githubusercontent.com
+DOMAIN-SUFFIX,user-images.githubusercontent.com
+DOMAIN-SUFFIX,media.githubusercontent.com
+
+# GitHub API
+
+DOMAIN-SUFFIX,api.github.com
+
+# Git LFS
+DOMAIN-SUFFIX,github-cloud.githubusercontent.com
+DOMAIN-SUFFIX,objects-origin.githubusercontent.com
+
+  # Codespaces
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,githubnext.com
