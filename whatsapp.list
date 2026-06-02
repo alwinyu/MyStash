@@ -6,5 +6,7 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,wa.me
 
+IP-CIDR,120.232.51.242,no-resolve
+
 
 
