@@ -4,6 +4,11 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
 
+
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,translate.googleapis.com
+DOMAIN,translate-pa.googleapis.com
+
 # TikTok
 
 
